@@ -27,12 +27,11 @@ Technologies Used
 - Dense Output Layer with Sigmoid Activation
 
 - Implementation Details
-- 
+ 
 - Text data is tokenized and padded to a fixed length.
 - Word embeddings are learned during training.
 - Binary classification is performed using a sigmoid activation function.
 - Model optimized using **binary cross-entropy loss**.
 
-- Results
-- 
+ Results
 - Successfully classifies Messages into spam and non-spam categories.
