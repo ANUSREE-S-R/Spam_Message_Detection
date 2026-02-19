@@ -20,14 +20,12 @@ Technologies Used
 - NumPy
 - Pandas
 
-- Model Architecture
-- 
+  Model Architecture
 - Embedding Layer (Vocabulary Size: 5000, Output Dimension: 64)
 - SimpleRNN Layer with 64 units
 - Dense Output Layer with Sigmoid Activation
 
-- Implementation Details
- 
+  Implementation Details
 - Text data is tokenized and padded to a fixed length.
 - Word embeddings are learned during training.
 - Binary classification is performed using a sigmoid activation function.
