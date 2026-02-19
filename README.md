@@ -2,6 +2,7 @@
 Spam Message Classification using Deep Learning (RNN)
 
 Project Overview
+
 This project focuses on building a **Spam Message Classification system** using **Deep Learning** techniques.  
 A **Recurrent Neural Network (RNN)** model is implemented to classify Messages as **Spam** or **Not Spam** based on textual content.
 
